@@ -4,7 +4,7 @@
 
 Title: Blacksun
 
-Move mouse along x-axis to move
+Move mouse along x-axis to move &
 Move mouse along y-axis to change rotation speed
 
 ![Alt text](http://i.imgur.com/BgXbeFg.jpg?raw=true "Flowchart")
